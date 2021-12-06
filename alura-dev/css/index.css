@@ -1,0 +1,27 @@
+/* [Desktop] alura dev */
+body {
+    background: #051d3b;
+    border-radius: 40px;
+    width: 1440px;
+    height: 1024px;
+}
+
+/* Header / Desktop */
+
+header {
+    position: absolute;
+    width: 1376px;
+    height: 56px;
+    left: 32px;
+    top: 32px;
+}
+
+/* logo */
+
+.logo {
+    position: absolute;
+    width: 145px;
+    height: 34.05px;
+    left: 0px;
+    top: 12px;
+}
